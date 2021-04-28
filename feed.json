@@ -75,14 +75,6 @@
             "date_modified": "2019-12-25T14:27:01.000Z"
         },
         {
-            "id": "https://dbdgs.cn/note-methods.html",
-            "url": "https://dbdgs.cn/note-methods.html",
-            "title": "笔记方法",
-            "summary": "::: center",
-            "image": "https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200716105752.jpg",
-            "date_modified": "2020-07-16T11:00:55.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/strategy-for-efficient-learn.html",
             "url": "https://dbdgs.cn/strategy-for-efficient-learn.html",
             "title": "提高学习效率的策略",
@@ -145,6 +137,14 @@
             "title": "2分钟规则",
             "summary": "每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。\n\n看一本书 → 看一页书\n写一篇文章 → 写一句话\n跑10公里 → 穿上跑鞋\n做100次俯卧撑 → 做1次俯卧撑\n多吃蔬菜水果 → 吃一个水果\n编写一个程序 → 编写一个函数 → 编写一行代码",
             "date_modified": "2020-11-09T11:05:29.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/friends/",
+            "url": "https://dbdgs.cn/friends/",
+            "title": "友情链接",
+            "summary": "desc: '极客玩家大白的技术分享博客'\n  avatar: https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/authors/byavatar.jpg\n  link: https://geekplayers.com\n  bgColor: '#B9D59C'\n  textColor: '#3B551F'",
+            "image": "https://dbdgs.cn/https://cdn.jsdelivr.net/gh/dbdgs/images@main/dabai.jpg \"dbdgs.cn\"",
+            "date_modified": "2020-11-25T20:27:01.000Z"
         }
     ]
 }

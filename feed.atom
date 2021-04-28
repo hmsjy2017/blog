@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dbdgs.cn</id>
     <title>dbdgs | 大白的故事</title>
-    <updated>2021-04-28T17:46:24.967Z</updated>
+    <updated>2021-04-28T17:46:56.502Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://dbdgs.cn"/>
     <link rel="self" href="https://dbdgs.cn/feed.atom"/>
@@ -117,14 +117,6 @@ README文件带关键字查询]]></summary>
 由于GitHub禁止百度爬虫访问，造成托管在GitHub Pages上的博客无法被百度收录。相关问题可以通过百度站长平台的抓取诊断再现，每次都是403 Forbidden的错误。]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[笔记方法]]></title>
-        <id>https://dbdgs.cn/note-methods.html</id>
-        <link href="https://dbdgs.cn/note-methods.html">
-        </link>
-        <updated>2020-07-16T11:00:55.000Z</updated>
-        <summary type="html"><![CDATA[::: center]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[提高学习效率的策略]]></title>
         <id>https://dbdgs.cn/strategy-for-efficient-learn.html</id>
         <link href="https://dbdgs.cn/strategy-for-efficient-learn.html">
@@ -224,5 +216,17 @@ README文件带关键字查询]]></summary>
 做100次俯卧撑 → 做1次俯卧撑
 多吃蔬菜水果 → 吃一个水果
 编写一个程序 → 编写一个函数 → 编写一行代码]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[友情链接]]></title>
+        <id>https://dbdgs.cn/friends/</id>
+        <link href="https://dbdgs.cn/friends/">
+        </link>
+        <updated>2020-11-25T20:27:01.000Z</updated>
+        <summary type="html"><![CDATA[desc: '极客玩家大白的技术分享博客'
+  avatar: https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/authors/byavatar.jpg
+  link: https://geekplayers.com
+  bgColor: '#B9D59C'
+  textColor: '#3B551F']]></summary>
     </entry>
 </feed>

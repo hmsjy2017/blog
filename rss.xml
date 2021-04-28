@@ -4,7 +4,7 @@
         <title>dbdgs | 大白的故事</title>
         <link>https://dbdgs.cn</link>
         <description>大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。</description>
-        <lastBuildDate>Wed, 28 Apr 2021 17:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 17:46:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://dbdgs.cn/feed.atom" rel="self" type="application/rss+xml"/>
@@ -110,15 +110,6 @@ README文件带关键字查询]]></description>
 由于GitHub禁止百度爬虫访问，造成托管在GitHub Pages上的博客无法被百度收录。相关问题可以通过百度站长平台的抓取诊断再现，每次都是403 Forbidden的错误。]]></description>
         </item>
         <item>
-            <title><![CDATA[笔记方法]]></title>
-            <link>https://dbdgs.cn/note-methods.html</link>
-            <guid>https://dbdgs.cn/note-methods.html</guid>
-            <pubDate>Thu, 16 Jul 2020 11:00:55 GMT</pubDate>
-            <description><![CDATA[::: center]]></description>
-            <enclosure url="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200716105752.jpg">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[提高学习效率的策略]]></title>
             <link>https://dbdgs.cn/strategy-for-efficient-learn.html</link>
             <guid>https://dbdgs.cn/strategy-for-efficient-learn.html</guid>
@@ -211,6 +202,19 @@ README文件带关键字查询]]></description>
 做100次俯卧撑 → 做1次俯卧撑
 多吃蔬菜水果 → 吃一个水果
 编写一个程序 → 编写一个函数 → 编写一行代码]]></description>
+        </item>
+        <item>
+            <title><![CDATA[友情链接]]></title>
+            <link>https://dbdgs.cn/friends/</link>
+            <guid>https://dbdgs.cn/friends/</guid>
+            <pubDate>Wed, 25 Nov 2020 20:27:01 GMT</pubDate>
+            <description><![CDATA[desc: '极客玩家大白的技术分享博客'
+  avatar: https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/authors/byavatar.jpg
+  link: https://geekplayers.com
+  bgColor: '#B9D59C'
+  textColor: '#3B551F']]></description>
+            <enclosure url="https://dbdgs.cn/https://cdn.jsdelivr.net/gh/dbdgs/images@main/dabai.jpg &quot;dbdgs.cn&quot;">
+            </enclosure>
         </item>
     </channel>
 </rss>
