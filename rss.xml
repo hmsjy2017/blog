@@ -4,7 +4,7 @@
         <title>dbdgs | 大白的故事</title>
         <link>https://dbdgs.cn</link>
         <description>大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。</description>
-        <lastBuildDate>Wed, 28 Apr 2021 17:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 17:47:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://dbdgs.cn/feed.atom" rel="self" type="application/rss+xml"/>
@@ -110,16 +110,6 @@ README文件带关键字查询]]></description>
 由于GitHub禁止百度爬虫访问，造成托管在GitHub Pages上的博客无法被百度收录。相关问题可以通过百度站长平台的抓取诊断再现，每次都是403 Forbidden的错误。]]></description>
         </item>
         <item>
-            <title><![CDATA[提高学习效率的策略]]></title>
-            <link>https://dbdgs.cn/strategy-for-efficient-learn.html</link>
-            <guid>https://dbdgs.cn/strategy-for-efficient-learn.html</guid>
-            <pubDate>Sat, 04 Jan 2020 11:54:14 GMT</pubDate>
-            <description><![CDATA[提高学习效率的策略
-推荐一本关于学习方法的书《认知天性》，里面有讲到有一些简单实用的学习策略，能让大家学的更好、记得更牢，而且这些策略人人可用，时时可用。这些方法包括各种形式的检索练习——例如小的测试和自测，间隔练习、穿插不同但相关科目或技能的练习（多样化练习），在别人教给你解决方案前自己先试着解决问题，从不同类型问题中提取基本原理和规则。由于学习是反复的过程，需要复习早先学过的东西，持续更新已知，并把它们和新知识联系起来。]]></description>
-            <enclosure url="https://dbdgs.cn/https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103144032.png &apos;认知天性&apos;">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[提高记忆的技巧]]></title>
             <link>https://dbdgs.cn/memory-tips.html</link>
             <guid>https://dbdgs.cn/memory-tips.html</guid>
@@ -214,6 +204,15 @@ README文件带关键字查询]]></description>
   bgColor: '#B9D59C'
   textColor: '#3B551F']]></description>
             <enclosure url="https://dbdgs.cn/https://cdn.jsdelivr.net/gh/dbdgs/images@main/dabai.jpg &quot;dbdgs.cn&quot;">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[关于]]></title>
+            <link>https://dbdgs.cn/about/</link>
+            <guid>https://dbdgs.cn/about/</guid>
+            <pubDate>Wed, 25 Dec 2019 14:27:01 GMT</pubDate>
+            <description><![CDATA[这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到GitHub点个Star，或者交换友链 ( •̀ ω •́ )✧]]></description>
+            <enclosure url="https://github-readme-stats.vercel.app/api/pin/?username=xugaoyi&amp;repo=vuepress-theme-vdoing">
             </enclosure>
         </item>
     </channel>

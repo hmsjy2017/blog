@@ -75,14 +75,6 @@
             "date_modified": "2019-12-25T14:27:01.000Z"
         },
         {
-            "id": "https://dbdgs.cn/strategy-for-efficient-learn.html",
-            "url": "https://dbdgs.cn/strategy-for-efficient-learn.html",
-            "title": "提高学习效率的策略",
-            "summary": "提高学习效率的策略\n推荐一本关于学习方法的书《认知天性》，里面有讲到有一些简单实用的学习策略，能让大家学的更好、记得更牢，而且这些策略人人可用，时时可用。这些方法包括各种形式的检索练习——例如小的测试和自测，间隔练习、穿插不同但相关科目或技能的练习（多样化练习），在别人教给你解决方案前自己先试着解决问题，从不同类型问题中提取基本原理和规则。由于学习是反复的过程，需要复习早先学过的东西，持续更新已知，并把它们和新知识联系起来。",
-            "image": "https://dbdgs.cn/https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103144032.png '认知天性'",
-            "date_modified": "2020-01-04T11:54:14.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/memory-tips.html",
             "url": "https://dbdgs.cn/memory-tips.html",
             "title": "提高记忆的技巧",
@@ -145,6 +137,14 @@
             "summary": "desc: '极客玩家大白的技术分享博客'\n  avatar: https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/authors/byavatar.jpg\n  link: https://geekplayers.com\n  bgColor: '#B9D59C'\n  textColor: '#3B551F'",
             "image": "https://dbdgs.cn/https://cdn.jsdelivr.net/gh/dbdgs/images@main/dabai.jpg \"dbdgs.cn\"",
             "date_modified": "2020-11-25T20:27:01.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/about/",
+            "url": "https://dbdgs.cn/about/",
+            "title": "关于",
+            "summary": "这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到GitHub点个Star，或者交换友链 ( •̀ ω •́ )✧",
+            "image": "https://github-readme-stats.vercel.app/api/pin/?username=xugaoyi&repo=vuepress-theme-vdoing",
+            "date_modified": "2019-12-25T14:27:01.000Z"
         }
     ]
 }
