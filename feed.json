@@ -6,12 +6,6 @@
     "description": "大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。",
     "items": [
         {
-            "id": "https://dbdgs.cn/note/wx-miniprogram/",
-            "url": "https://dbdgs.cn/note/wx-miniprogram/",
-            "title": "小程序笔记",
-            "date_modified": "2019-12-25T14:27:01.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/common-used-meta.html",
             "url": "https://dbdgs.cn/common-used-meta.html",
             "title": "常用meta整理",
