@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dbdgs.cn</id>
     <title>dbdgs | 大白的故事</title>
-    <updated>2021-04-28T18:11:58.252Z</updated>
+    <updated>2021-04-28T18:12:24.501Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://dbdgs.cn"/>
     <link rel="self" href="https://dbdgs.cn/feed.atom"/>
@@ -17,13 +17,6 @@
 &lt;meta&gt; 元素
 概要
 meta标签提供关于HTML文档的元数据。元数据不会显示在页面上，但是对于机器是可读的。它可用于浏览器（如何显示内容或重新加载页面），搜索引擎（关键词），或其他 web 服务。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS教程和技巧收藏]]></title>
-        <id>https://dbdgs.cn/css-tips.html</id>
-        <link href="https://dbdgs.cn/css-tips.html">
-        </link>
-        <updated>2020-08-11T17:13:52.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[npm常用命令]]></title>
