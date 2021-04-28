@@ -41,13 +41,6 @@
             "date_modified": "2019-12-25T14:27:01.000Z"
         },
         {
-            "id": "https://dbdgs.cn/baidu-shoulu-github.html",
-            "url": "https://dbdgs.cn/baidu-shoulu-github.html",
-            "title": "解决百度无法收录搭建在GitHub上的个人博客的问题",
-            "summary": "解决百度无法收录搭建在GitHub上的静态博客的问题\n注意\n如果你正在寻找本博客的搭建文档，博主建议您查看这个仓库的README。\n\n背景\n由于GitHub禁止百度爬虫访问，造成托管在GitHub Pages上的博客无法被百度收录。相关问题可以通过百度站长平台的抓取诊断再现，每次都是403 Forbidden的错误。",
-            "date_modified": "2019-12-25T14:27:01.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/friends/",
             "url": "https://dbdgs.cn/friends/",
             "title": "友情链接",
@@ -75,13 +68,6 @@
             "title": "资源",
             "summary": "::: tip\n收集一些常用的库、插件等资源，正在整理中...\n:::",
             "date_modified": "2020-04-12T08:58:56.000Z"
-        },
-        {
-            "id": "https://dbdgs.cn/vue-resources.html",
-            "url": "https://dbdgs.cn/vue-resources.html",
-            "title": "Vue资源",
-            "summary": "工具提示/弹出窗口",
-            "date_modified": "2020-04-19T11:39:43.000Z"
         },
         {
             "id": "https://dbdgs.cn/known-and-unknown.html",
