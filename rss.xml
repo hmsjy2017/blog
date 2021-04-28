@@ -4,7 +4,7 @@
         <title>dbdgs | 大白的故事</title>
         <link>https://dbdgs.cn</link>
         <description>大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。</description>
-        <lastBuildDate>Wed, 28 Apr 2021 17:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 17:47:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://dbdgs.cn/feed.atom" rel="self" type="application/rss+xml"/>
@@ -110,43 +110,6 @@ README文件带关键字查询]]></description>
 由于GitHub禁止百度爬虫访问，造成托管在GitHub Pages上的博客无法被百度收录。相关问题可以通过百度站长平台的抓取诊断再现，每次都是403 Forbidden的错误。]]></description>
         </item>
         <item>
-            <title><![CDATA[处理问题的思路]]></title>
-            <link>https://dbdgs.cn/solve-problems-mind.html</link>
-            <guid>https://dbdgs.cn/solve-problems-mind.html</guid>
-            <pubDate>Fri, 03 Jan 2020 14:36:02 GMT</pubDate>
-            <description><![CDATA[遇到问题卡住了，可以先休息一会儿，调整一下状态，喝杯水走走放松放松，然后想想有没有遗漏的地方，或者其他的解决方案呢]]></description>
-        </item>
-        <item>
-            <title><![CDATA[搜索引擎使用技巧]]></title>
-            <link>https://dbdgs.cn/search-engine-tips.html</link>
-            <guid>https://dbdgs.cn/search-engine-tips.html</guid>
-            <pubDate>Sun, 24 May 2020 11:44:19 GMT</pubDate>
-            <description><![CDATA[搜索引擎相信大家经常在使用，但是有时候想搜某个信息时却搜出来一大堆不相关的（百度：你们都在看我干什么？）。下面我们来介绍几种搜索技巧，可以提升搜索效率，助你快速查资料，妈妈再也不担心我的学习了（'妈~我真的是在找学习资料'）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面试问题集锦]]></title>
-            <link>https://dbdgs.cn/interviews-qa-list.html</link>
-            <guid>https://dbdgs.cn/interviews-qa-list.html</guid>
-            <pubDate>Wed, 25 Dec 2019 14:27:01 GMT</pubDate>
-            <description><![CDATA[回答提示： 一般人回答这个问题过于平常，只说姓名、年龄、工作经验，这些在简历上都有。其实，企业最希望知道的是求职者能否胜任工作，包括：最强的技能、最深入研究的知识领域、个性中最积极的部分、做过的最成功的事，主要的成就等，要突出积极的个性和做事的能力，说的合情合理企业才会相信。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个完美主义者的自我救赎]]></title>
-            <link>https://dbdgs.cn/perfectionist-comprehend.html</link>
-            <guid>https://dbdgs.cn/perfectionist-comprehend.html</guid>
-            <pubDate>Thu, 16 Jan 2020 15:15:27 GMT</pubDate>
-            <description><![CDATA[一个完美主义者的自我救赎
-最近，看到一个心理测试题是测试你是否有完美主义：
-
-（1）你是不是经常为自己设定目标，而且最终往往达不到那些目标？
-（2）当一件事件做得不够好时，你是否有再试一次的想法？
-（3）你是否休息时仍想着学习、工作、或者其他还没有解决的事？
-（4）如果遇到别人说话或打岔，破坏了你的注意力，你是否觉得不太高兴？
-（5）你是否常常会在事后想，如果当时能换成另一种方式来解决，也许会更加理想？
-
-如果上面的问题，你的回答大部分是肯定的，那么你就有完美主义倾向。]]></description>
-        </item>
-        <item>
             <title><![CDATA[反向拆解让人上瘾的套路，找回自律]]></title>
             <link>https://dbdgs.cn/why-being-addicted.html</link>
             <guid>https://dbdgs.cn/why-being-addicted.html</guid>
@@ -207,6 +170,29 @@ README文件带关键字查询]]></description>
             <description><![CDATA[::: tip
 收集一些常用的库、插件等资源，正在整理中...
 :::]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue资源]]></title>
+            <link>https://dbdgs.cn/vue-resources.html</link>
+            <guid>https://dbdgs.cn/vue-resources.html</guid>
+            <pubDate>Sun, 19 Apr 2020 11:39:43 GMT</pubDate>
+            <description><![CDATA[工具提示/弹出窗口]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你知道的越多，不知道的也就越多]]></title>
+            <link>https://dbdgs.cn/known-and-unknown.html</link>
+            <guid>https://dbdgs.cn/known-and-unknown.html</guid>
+            <pubDate>Wed, 06 May 2020 15:52:40 GMT</pubDate>
+            <description><![CDATA[不知道大家有没有发现，我们身边经常有这样的人，他们越是有能力的，越是有知识的，越是低调，越是谦逊，因为他们深知，知道的越多，不知道的也就越多。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拥抱生活，拥抱快乐]]></title>
+            <link>https://dbdgs.cn/life-and-happy.html</link>
+            <guid>https://dbdgs.cn/life-and-happy.html</guid>
+            <pubDate>Fri, 26 Jun 2020 20:40:38 GMT</pubDate>
+            <description><![CDATA[生活在后现代的今天，很多人都有一种虚无感，认为人生没有意义。但是，人生不可能没有意义，因为当你认为没有意义的时候，一定有一个与之相对应的概念叫有意义。]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200626212238.webp">
+            </enclosure>
         </item>
     </channel>
 </rss>

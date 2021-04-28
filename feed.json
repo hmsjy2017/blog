@@ -75,34 +75,6 @@
             "date_modified": "2019-12-25T14:27:01.000Z"
         },
         {
-            "id": "https://dbdgs.cn/solve-problems-mind.html",
-            "url": "https://dbdgs.cn/solve-problems-mind.html",
-            "title": "处理问题的思路",
-            "summary": "遇到问题卡住了，可以先休息一会儿，调整一下状态，喝杯水走走放松放松，然后想想有没有遗漏的地方，或者其他的解决方案呢",
-            "date_modified": "2020-01-03T14:36:02.000Z"
-        },
-        {
-            "id": "https://dbdgs.cn/search-engine-tips.html",
-            "url": "https://dbdgs.cn/search-engine-tips.html",
-            "title": "搜索引擎使用技巧",
-            "summary": "搜索引擎相信大家经常在使用，但是有时候想搜某个信息时却搜出来一大堆不相关的（百度：你们都在看我干什么？）。下面我们来介绍几种搜索技巧，可以提升搜索效率，助你快速查资料，妈妈再也不担心我的学习了（'妈~我真的是在找学习资料'）",
-            "date_modified": "2020-05-24T11:44:19.000Z"
-        },
-        {
-            "id": "https://dbdgs.cn/interviews-qa-list.html",
-            "url": "https://dbdgs.cn/interviews-qa-list.html",
-            "title": "面试问题集锦",
-            "summary": "回答提示： 一般人回答这个问题过于平常，只说姓名、年龄、工作经验，这些在简历上都有。其实，企业最希望知道的是求职者能否胜任工作，包括：最强的技能、最深入研究的知识领域、个性中最积极的部分、做过的最成功的事，主要的成就等，要突出积极的个性和做事的能力，说的合情合理企业才会相信。",
-            "date_modified": "2019-12-25T14:27:01.000Z"
-        },
-        {
-            "id": "https://dbdgs.cn/perfectionist-comprehend.html",
-            "url": "https://dbdgs.cn/perfectionist-comprehend.html",
-            "title": "一个完美主义者的自我救赎",
-            "summary": "一个完美主义者的自我救赎\n最近，看到一个心理测试题是测试你是否有完美主义：\n\n（1）你是不是经常为自己设定目标，而且最终往往达不到那些目标？\n（2）当一件事件做得不够好时，你是否有再试一次的想法？\n（3）你是否休息时仍想着学习、工作、或者其他还没有解决的事？\n（4）如果遇到别人说话或打岔，破坏了你的注意力，你是否觉得不太高兴？\n（5）你是否常常会在事后想，如果当时能换成另一种方式来解决，也许会更加理想？\n\n如果上面的问题，你的回答大部分是肯定的，那么你就有完美主义倾向。",
-            "date_modified": "2020-01-16T15:15:27.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/why-being-addicted.html",
             "url": "https://dbdgs.cn/why-being-addicted.html",
             "title": "反向拆解让人上瘾的套路，找回自律",
@@ -145,6 +117,28 @@
             "title": "资源",
             "summary": "::: tip\n收集一些常用的库、插件等资源，正在整理中...\n:::",
             "date_modified": "2020-04-12T08:58:56.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/vue-resources.html",
+            "url": "https://dbdgs.cn/vue-resources.html",
+            "title": "Vue资源",
+            "summary": "工具提示/弹出窗口",
+            "date_modified": "2020-04-19T11:39:43.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/known-and-unknown.html",
+            "url": "https://dbdgs.cn/known-and-unknown.html",
+            "title": "你知道的越多，不知道的也就越多",
+            "summary": "不知道大家有没有发现，我们身边经常有这样的人，他们越是有能力的，越是有知识的，越是低调，越是谦逊，因为他们深知，知道的越多，不知道的也就越多。",
+            "date_modified": "2020-05-06T15:52:40.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/life-and-happy.html",
+            "url": "https://dbdgs.cn/life-and-happy.html",
+            "title": "拥抱生活，拥抱快乐",
+            "summary": "生活在后现代的今天，很多人都有一种虚无感，认为人生没有意义。但是，人生不可能没有意义，因为当你认为没有意义的时候，一定有一个与之相对应的概念叫有意义。",
+            "image": "https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200626212238.webp",
+            "date_modified": "2020-06-26T20:40:38.000Z"
         }
     ]
 }
