@@ -20,13 +20,6 @@
             "date_modified": "2020-08-11T17:13:52.000Z"
         },
         {
-            "id": "https://dbdgs.cn/mixins.html",
-            "url": "https://dbdgs.cn/mixins.html",
-            "title": "混入(Mixins)",
-            "summary": "stylus混入(Mixins)\n混入(Mixins)\n混入和函数定义方法一致，但是应用却大相径庭。\n一个简单的混入应用，定义一个超出显示省略号的ellipsis()方法，在需要用到的地方只需插入这个方法，其样式会扩展并复制到选择器中。",
-            "date_modified": "2020-02-23T15:47:03.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/npm-common-commands.html",
             "url": "https://dbdgs.cn/npm-common-commands.html",
             "title": "npm常用命令",

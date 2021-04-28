@@ -4,7 +4,7 @@
         <title>dbdgs | 大白的故事</title>
         <link>https://dbdgs.cn</link>
         <description>大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。</description>
-        <lastBuildDate>Wed, 28 Apr 2021 18:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 18:11:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://dbdgs.cn/feed.atom" rel="self" type="application/rss+xml"/>
@@ -25,16 +25,6 @@ meta标签提供关于HTML文档的元数据。元数据不会显示在页面上
             <link>https://dbdgs.cn/css-tips.html</link>
             <guid>https://dbdgs.cn/css-tips.html</guid>
             <pubDate>Tue, 11 Aug 2020 17:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[混入(Mixins)]]></title>
-            <link>https://dbdgs.cn/mixins.html</link>
-            <guid>https://dbdgs.cn/mixins.html</guid>
-            <pubDate>Sun, 23 Feb 2020 15:47:03 GMT</pubDate>
-            <description><![CDATA[stylus混入(Mixins)
-混入(Mixins)
-混入和函数定义方法一致，但是应用却大相径庭。
-一个简单的混入应用，定义一个超出显示省略号的ellipsis()方法，在需要用到的地方只需插入这个方法，其样式会扩展并复制到选择器中。]]></description>
         </item>
         <item>
             <title><![CDATA[npm常用命令]]></title>
