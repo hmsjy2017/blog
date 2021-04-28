@@ -75,32 +75,11 @@
             "date_modified": "2019-12-25T14:27:01.000Z"
         },
         {
-            "id": "https://dbdgs.cn/memory-tips.html",
-            "url": "https://dbdgs.cn/memory-tips.html",
-            "title": "提高记忆的技巧",
-            "summary": "提高记忆的技巧\n\n多个感官并用\n记忆时调用一切感官。没人的话可以大声阅读，有人的话可以默念，轻微摇晃手指等，有助于保持专注。",
-            "date_modified": "2020-01-03T14:34:48.000Z"
-        },
-        {
-            "id": "https://dbdgs.cn/autonomy-suggestions.html",
-            "url": "https://dbdgs.cn/autonomy-suggestions.html",
-            "title": "自律小建议",
-            "summary": "自律小建议\n\n培养专注\n\n练习冥想、瑜伽等\n\n排除外界干扰\n\n手机调到勿扰，在图书馆学习等",
-            "date_modified": "2020-01-03T14:35:18.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/solve-problems-mind.html",
             "url": "https://dbdgs.cn/solve-problems-mind.html",
             "title": "处理问题的思路",
             "summary": "遇到问题卡住了，可以先休息一会儿，调整一下状态，喝杯水走走放松放松，然后想想有没有遗漏的地方，或者其他的解决方案呢",
             "date_modified": "2020-01-03T14:36:02.000Z"
-        },
-        {
-            "id": "https://dbdgs.cn/search-engine-tips.html",
-            "url": "https://dbdgs.cn/search-engine-tips.html",
-            "title": "搜索引擎使用技巧",
-            "summary": "搜索引擎相信大家经常在使用，但是有时候想搜某个信息时却搜出来一大堆不相关的（百度：你们都在看我干什么？）。下面我们来介绍几种搜索技巧，可以提升搜索效率，助你快速查资料，妈妈再也不担心我的学习了（'妈~我真的是在找学习资料'）",
-            "date_modified": "2020-05-24T11:44:19.000Z"
         },
         {
             "id": "https://dbdgs.cn/interviews-qa-list.html",
@@ -145,6 +124,27 @@
             "summary": "这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到GitHub点个Star，或者交换友链 ( •̀ ω •́ )✧",
             "image": "https://github-readme-stats.vercel.app/api/pin/?username=xugaoyi&repo=vuepress-theme-vdoing",
             "date_modified": "2019-12-25T14:27:01.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/sites.html",
+            "url": "https://dbdgs.cn/sites.html",
+            "title": "网站",
+            "summary": "个人收藏夹\n一位大佬的收藏夹\n码力全开资源库 很全很强大，独立开发者/设计干货/优质利器/工具资源...",
+            "date_modified": "2020-04-19T11:33:04.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/resources.html",
+            "url": "https://dbdgs.cn/resources.html",
+            "title": "资源",
+            "summary": "::: tip\n收集一些常用的库、插件等资源，正在整理中...\n:::",
+            "date_modified": "2020-04-12T08:58:56.000Z"
+        },
+        {
+            "id": "https://dbdgs.cn/vue-resources.html",
+            "url": "https://dbdgs.cn/vue-resources.html",
+            "title": "Vue资源",
+            "summary": "工具提示/弹出窗口",
+            "date_modified": "2020-04-19T11:39:43.000Z"
         }
     ]
 }
