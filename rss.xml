@@ -4,7 +4,7 @@
         <title>dbdgs | 大白的故事</title>
         <link>https://dbdgs.cn</link>
         <description>大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。</description>
-        <lastBuildDate>Wed, 28 Apr 2021 18:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 18:12:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://dbdgs.cn/feed.atom" rel="self" type="application/rss+xml"/>
@@ -77,15 +77,6 @@ npm是跟随node一起安装的包（模块）管理器。常见的使用场景�
             <guid>https://dbdgs.cn/known-and-unknown.html</guid>
             <pubDate>Wed, 06 May 2020 15:52:40 GMT</pubDate>
             <description><![CDATA[不知道大家有没有发现，我们身边经常有这样的人，他们越是有能力的，越是有知识的，越是低调，越是谦逊，因为他们深知，知道的越多，不知道的也就越多。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拥抱生活，拥抱快乐]]></title>
-            <link>https://dbdgs.cn/life-and-happy.html</link>
-            <guid>https://dbdgs.cn/life-and-happy.html</guid>
-            <pubDate>Fri, 26 Jun 2020 20:40:38 GMT</pubDate>
-            <description><![CDATA[生活在后现代的今天，很多人都有一种虚无感，认为人生没有意义。但是，人生不可能没有意义，因为当你认为没有意义的时候，一定有一个与之相对应的概念叫有意义。]]></description>
-            <enclosure url="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200626212238.webp">
-            </enclosure>
         </item>
     </channel>
 </rss>
