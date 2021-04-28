@@ -4,7 +4,7 @@
         <title>dbdgs | 大白的故事</title>
         <link>https://dbdgs.cn</link>
         <description>大白的技术故事，专注于分享IT前沿技术、干货知识、热点资讯等，同时分享硬核的自媒体赚钱方法、推广技巧和运营实战，技术文章涵盖python,dotnet,node.js,git,github等。</description>
-        <lastBuildDate>Wed, 28 Apr 2021 18:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 18:11:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://dbdgs.cn/feed.atom" rel="self" type="application/rss+xml"/>
@@ -48,19 +48,6 @@ npm是跟随node一起安装的包（模块）管理器。常见的使用场景�
 允许用户从npm服务器下载别人编写的第三方包到本地使用。
 允许用户从npm服务器下载并安装别人编写的命令行程序到本地使用。
 允许用户将自己编写的包或命令行程序上传到npm服务器供别人使用。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub高级搜索技巧]]></title>
-            <link>https://dbdgs.cn/github-adv-search-tips.html</link>
-            <guid>https://dbdgs.cn/github-adv-search-tips.html</guid>
-            <pubDate>Wed, 25 Dec 2019 14:27:01 GMT</pubDate>
-            <description><![CDATA[GitHub高级搜索技巧
-in:name &lt;关键字&gt;
-仓库名称带关键字查询
-in:description &lt;关键字&gt;
-仓库描述带关键字查询
-in:readme &lt;关键字&gt;
-README文件带关键字查询]]></description>
         </item>
         <item>
             <title><![CDATA[友情链接]]></title>

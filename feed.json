@@ -34,13 +34,6 @@
             "date_modified": "2019-12-25T14:27:01.000Z"
         },
         {
-            "id": "https://dbdgs.cn/github-adv-search-tips.html",
-            "url": "https://dbdgs.cn/github-adv-search-tips.html",
-            "title": "GitHub高级搜索技巧",
-            "summary": "GitHub高级搜索技巧\nin:name &lt;关键字&gt;\n仓库名称带关键字查询\nin:description &lt;关键字&gt;\n仓库描述带关键字查询\nin:readme &lt;关键字&gt;\nREADME文件带关键字查询",
-            "date_modified": "2019-12-25T14:27:01.000Z"
-        },
-        {
             "id": "https://dbdgs.cn/friends/",
             "url": "https://dbdgs.cn/friends/",
             "title": "友情链接",
