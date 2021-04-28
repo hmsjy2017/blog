@@ -8,8 +8,6 @@ module.exports = [
         text: '学习笔记', 
         items:
         [
-          {text: 'TypeScript笔记', link: '/typescript/'},
-          {text: 'ES6笔记', link: '/es6/'},
           {text: 'Vue笔记', link: '/vue/'}
         ]}
     ]
